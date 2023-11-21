@@ -19,6 +19,22 @@ npm run dev
 
 浏览器访问 http://localhost:80
 
+### 测试账号
+
+> 流程管理账号：admin / admin123
+>
+> 请假流程测试账号
+>
+> 普通员工1：guanxing / 123456
+>
+> 普通员工2：zhoucang / 123456
+>
+> 部门领导1：guanyu / 123456
+>
+> 部门领导2：zhaoyun / 123456
+>
+> 人事：zhugeliang / 123456
+
 ## 发布
 
 ```bash
